@@ -14,3 +14,8 @@ Sử dụng cần câu cá sẽ giúp các bạn có thể câu được cá có
 
 ##### Hướng dẫn Cách Câu cá
 
+<img src="../../images/gameplay/fishing/gear-requirement.png" align="center">
+
+<img src="../../images/gameplay/fishing/strategy.png" align="center">
+
+Lưu ý: Khuyến khích các bạn liên tục di chuyển tìm các fishing node để có thể câu được các loại cá có giá trị cao

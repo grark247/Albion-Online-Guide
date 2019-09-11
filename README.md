@@ -6,6 +6,44 @@ Dưới đây là một số hướng dẫn cơ bản được tổng hợp từ
 
 #### Hệ thống Gameplay & Kinh tế
 
+###### Hệ thống PvE
+
+​	Open World
+
+​	Dungeons 
+
+​	Boss Thế giới
+
+​	Expeditions
+
+​	Hệ thống Thành bang (Factions)
+
+​	Hidden Treasures
+
+###### Hệ thống PvP
+
+​	Arena
+
+​	Castles
+
+​	Duel
+
+​	Ganking
+
+​	Hệ thống GvG
+
+​	Hệ thống ZvZ
+
+​	Warcamps
+
+​	Chiếm Territories
+
+###### Buôn bán (Trading)
+
+​	Chợ (Marketplace)
+
+​	Trao đổi (Trading)
+
 ###### Nghề Khai thác (Gathering)
 
 ​	[Câu cá (Fisherman)](gameplay/fishing/)
@@ -36,10 +74,6 @@ Dưới đây là một số hướng dẫn cơ bản được tổng hợp từ
 
 ​	Nấu ăn (Cooking)
 
-###### Buôn bán (Trading)
-
-​	Chợ (Marketplace)
-
 ###### Nông nghiệp (Farming)
 
 ​	Trồng cây (Plants)
@@ -55,36 +89,6 @@ Dưới đây là một số hướng dẫn cơ bản được tổng hợp từ
 ​	Đảo (Islands)
 
 ​	Nhà ở (Buildings)
-
-###### Hệ thống PvE
-
-​	Open World
-
-​	Dungeons 
-
-​	Boss Thế giới
-
-​	Expeditions
-
-​	Hệ thống Thành bang (Factions)	
-
-###### Hệ thống PvP
-
-​	Arena
-
-​	Castles
-
-​	Duel
-
-​	Ganking
-
-​	Hệ thống GvG
-
-​	Hệ thống ZvZ
-
-​	Warcamps
-
-​	Chiếm Territories
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
