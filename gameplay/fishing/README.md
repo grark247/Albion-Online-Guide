@@ -2,7 +2,7 @@
 
 <img src="../../images/gameplay/fishing/fisherman.jpg" align="center" width="250">
 
-#### Giới thiệu
+### Giới thiệu
 
 Câu cá là một trong các ngành nghề có thể dùng để kiếm tiền trong Albion Online. Không giống như những ngành nghề khác, trong bảng Destiny Board, nghề câu cá chỉ có 2 cấp độ: *Fisherman node* và *Fishing Specialist Node*. Khi lên level nhánh *Fisherman Node* sẽ giúp các bạn có thể sử dụng được cần câu cá và trang bị câu cá xịn hơn.
 
@@ -12,7 +12,7 @@ Mỗi level trong nhánh Fishing Specialist sẽ giúp tăng **2.5** IP cho tấ
 
 Sử dụng cần câu cá sẽ giúp các bạn có thể câu được cá có Tier +1 so với Tier của cần câu đang sử dụng. Ví dụ, nếu bạn đang sử dụng cần câu T5 (Expert's Fishing Rod), bạn có thể câu được các loại cá có Tier 1, 2, 3, 4, 5, và 6.
 
-##### Hướng dẫn Cách Câu cá
+### Hướng dẫn Cách Câu cá
 
 <img src="../../images/gameplay/fishing/gear-requirement.png" align="center">
 

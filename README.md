@@ -4,9 +4,9 @@
 
 Dưới đây là một số hướng dẫn cơ bản được tổng hợp từ albion online wiki nhằm giúp các bạn nhanh chóng nắm bắt được với hệ thống gameplay của Albion Online. Các bạn có thể sử dụng thẻ Issues ở phía trên để đưa ra các góp ý, nhận xét nhằm giúp hoàn thiện bài hướng dẫn này.
 
-#### Hệ thống Gameplay & Kinh tế
+### Hệ thống Gameplay & Kinh tế
 
-###### Hệ thống PvE
+#### Hệ thống PvE
 
 ​	Open World
 
@@ -20,7 +20,7 @@ Dưới đây là một số hướng dẫn cơ bản được tổng hợp từ
 
 ​	Hidden Treasures
 
-###### Hệ thống PvP
+#### Hệ thống PvP
 
 ​	Arena
 
@@ -38,13 +38,13 @@ Dưới đây là một số hướng dẫn cơ bản được tổng hợp từ
 
 ​	Chiếm Territories
 
-###### Buôn bán (Trading)
+#### Buôn bán (Trading)
 
 ​	Chợ (Marketplace)
 
 ​	Trao đổi (Trading)
 
-###### Nghề Khai thác (Gathering)
+#### Nghề Khai thác (Gathering)
 
 ​	[Câu cá (Fisherman)](gameplay/fishing/)
 
@@ -56,9 +56,9 @@ Dưới đây là một số hướng dẫn cơ bản được tổng hợp từ
 
 ​	Khai thác đá (Quarrier)
 
-​	Lột da (Animal Skinner)
+​	Lột da thú (Animal Skinner)
 
-###### Nghề Sản xuất (Production)
+#### Nghề Sản xuất (Production)
 
 ​	Chế tạo Trang bị (Crafting)
 
@@ -74,7 +74,7 @@ Dưới đây là một số hướng dẫn cơ bản được tổng hợp từ
 
 ​	Nấu ăn (Cooking)
 
-###### Nông nghiệp (Farming)
+#### Nông nghiệp (Farming)
 
 ​	Trồng cây (Plants)
 
@@ -84,7 +84,7 @@ Dưới đây là một số hướng dẫn cơ bản được tổng hợp từ
 
 ​	Nuôi Gia súc (Livestock)
 
-###### Xây dựng Đảo
+#### Xây dựng Đảo
 
 ​	Đảo (Islands)
 
