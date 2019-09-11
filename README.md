@@ -10,7 +10,7 @@ Dưới đây là một số hướng dẫn cơ bản được tổng hợp từ
 
 ​	
 
-[Câu]: gameplay/fishing.md
+[Câu]: gameplay/fishing.md	"Câu cá (Fisherman)"
 
 ​	Khai khoáng (Ore Miner)
 
