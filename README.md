@@ -1,6 +1,6 @@
 # Albion-Online-Guide
 
-<a href="url"><img src="images/home/header.jpg" align="center"></a>
+<img src="images/header.jpg" align="center">
 
 Dưới đây là một số hướng dẫn cơ bản được tổng hợp từ albion online wiki nhằm giúp các bạn nhanh chóng nắm bắt được với hệ thống gameplay của Albion Online. Các bạn có thể sử dụng thẻ Issues ở phía trên để đưa ra các góp ý, nhận xét nhằm giúp hoàn thiện bài hướng dẫn này.
 
@@ -18,7 +18,7 @@ Dưới đây là một số hướng dẫn cơ bản được tổng hợp từ
 
 ​	Hệ thống Thành bang (Factions)
 
-​	Hidden Treasures
+
 
 #### Hệ thống PvP
 
@@ -92,4 +92,4 @@ Dưới đây là một số hướng dẫn cơ bản được tổng hợp từ
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="images/home/avatar.png" align="center" height="100" width="100">
+<img src="images/avatar.png" align="center" height="100" width="100">
