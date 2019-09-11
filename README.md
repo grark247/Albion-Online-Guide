@@ -8,7 +8,7 @@ Dưới đây là một số hướng dẫn cơ bản được tổng hợp từ
 
 #### Hệ thống PvE
 
-​	Open World
+​	[Open World](gameplay/open-world/)
 
 ​	Dungeons 
 
@@ -17,8 +17,6 @@ Dưới đây là một số hướng dẫn cơ bản được tổng hợp từ
 ​	Expeditions
 
 ​	Hệ thống Thành bang (Factions)
-
-
 
 #### Hệ thống PvP
 
