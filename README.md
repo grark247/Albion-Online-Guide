@@ -8,7 +8,7 @@ Dưới đây là một số hướng dẫn cơ bản được tổng hợp từ
 
 ###### Nghề Khai thác (Gathering)
 
-[Câu]: gameplay\fishing	"Câu cá (Fisherman)"
+​	[Câu cá (Fisherman)](gameplay/fishing/)
 
 ​	Khai khoáng (Ore Miner)
 
