@@ -19,7 +19,7 @@ Territory (Lãnh thổ) là các khu vực thuộc quyền sở hữu của mộ
 
 Dưới đây là một số hình ảnh ví dụ để phân biệt lãnh thổ của đồng minh và kẻ thù:
 
-<img src="images/territories.png" align="center">
+<img src="images/territories.png" align="center" width="550">
 
 #### Open World Dungeons
 
@@ -38,13 +38,28 @@ Open world dungeons là thuật ngữ để chỉ những khu vực cố định
 
 Castles (Lâu đài) là những khu vực có thể chiếm đóng bởi một guild. Phần thưởng cho việc sở hữu castles bao gồm điểm season, rương kho báu, rương chứa đồ. Các guild muốn có được castles sẽ phải tham gia đánh ZvZ để giành được quyền sở hữu castles.
 
-<img src="images/castle.png" align="center" >
+<img src="images/castle.png" align="center" width="550">
 
 #### Rương Kho Báu
 
+Rương kho báu chỉ xuất hiện ở những khu vực nhất định với khung giờ cố định. Có 2 loại rương kho báu người chơi có thể mở ra các phần thưởng ngẫu nhiên: Treasure Site và Relic Chest. Treasure site có thời gian reset là 1 tiếng trong khi Relic chest có thời gian reset ngẫu nhiên từ 1 cho tới 24 giờ (Tùy thuộc vào Tier của cái rương đó).
+
+<img src="images/treasure-site.png" align="center">
+
+<img src="images/relic-chest.png" align="center">
+
 #### Warcamps
+
+Warcamps là những khu vực có chứa rương đồ để người chơi có thể cất giữ các món đồ tạm thời khi chưa có thời gian để đem về lại thành. Cũng giống như bank ở các thành chính, đồ để trong warcamp sẽ không bị mất (Khác với đồ để trong rương territory).
+
+Warcamp cũng là nơi dùng để phát động chiến tranh (Launch attack) nhằm đánh chiếm lãnh thổ (territory) nằm trong chính map đó. 
 
 #### Faction Outposts
 
+Faction outpost là các khu vực chỉ xuất hiện ở Royal continent (Map xanh, vàng, đỏ). Những outpost này chỉ có thể được chiếm giữ khi người chơi cầm khác cờ với cờ của outpost giết được boss bên trong outpost. Ví dụ, đối với outpost có cờ Fort Sterling, người chơi sẽ phải mang cờ Thetford, Martlock, Bridgewatch hoặc Lymhurst để đánh outpost này. Tiêu diệt boss canh giữ outpost sẽ đem lại cho người chơi điểm faction, điểm fame PvE, v..v..
+
 #### Boss Thế giới
 
+Boss thế giới chỉ xuất hiện ở những map nhất định trong Albion Online (Astolat, Torn Earth, Inis Mon, Blighted Bog, v..v..). Thông thường, để giết boss thế giới sẽ cần tới một party ít nhất 5 người. Tiêu diệt boss thế giới sẽ đem lại nhiều phần thưởn giá trị cho người chơi.
+
+<img src="images/world-boss.png" align="center">
